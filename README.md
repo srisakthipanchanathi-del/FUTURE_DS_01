@@ -116,12 +116,11 @@ A small number of products contribute a large portion of total sales revenue.
 
 ---
 
-## Dashboard Preview
+## Dashboard Link
 
-Add your dashboard screenshot below:
 
 ```markdown
-![Dashboard Screenshot](dashboard_screenshot.png)
+https://futureds01-xcnelsfmjjhp8n3crh37bm.streamlit.app/
 ```
 
 ---
