@@ -179,7 +179,7 @@ This project demonstrates how data analytics can be used to transform raw busine
 
 **Sri Sakthi P**
 
-B.Tech Computer Science (AI & ML)
+Integrated Mtech CSE DS
 VIT Chennai
 
 Future Interns – Data Science & Analytics Program
